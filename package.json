@@ -4,6 +4,7 @@
   "description": "React sandbox project with forms to create and edit workout routines.",
   "keywords": [],
   "main": "index.js",
+  "homepage": ".",
   "dependencies": {
     "bootstrap": "4.3.1",
     "react": "^16.6.3",
